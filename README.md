@@ -10,4 +10,5 @@ Skills which will be demonstrated:
  - Using html to link to other webpages (some from other websites) and images
 
 Date project started:20/07/25
-Date project completed:
+
+Date project completed: 20/07/25
